@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kind of app</string>
+    <string name="btnRegister">REGISTER</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="tvRegister">USER REGISTRATION</string>
+    <string name="passwordHint">Password</string>
+    <string name="usernameHint">Username</string>
+    <string name="loginLinkText">Already a user?\nClick here to login</string>
+    <string name="tvAuthentication">USER AUTHENTICATION</string>
+    <string name="tvLogin">USER LOGIN</string>
+    <string name="registerLinkText">New user?\nClick here to register</string>
+    <string name="tvPlaceholder">Username</string>
+    <string name="tvDashboard">USER DASHBOARD</string>
+</resources>
